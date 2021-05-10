@@ -1,3 +1,1 @@
-#!/bin/bash
-
-echo "this is sirisha"
+echo "this is first line"
