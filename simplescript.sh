@@ -10,3 +10,4 @@ echo "third line added"
 
 echo "this is the bug fixed here now in bug001 only"
 
+echo "bug fixed"
