@@ -1,1 +1,4 @@
-name="sirisha"sdfd
+name="sirisha"
+email="sirishadevops9@gmail.com"
+course="devops"
+
