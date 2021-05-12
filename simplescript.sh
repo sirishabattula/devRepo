@@ -8,12 +8,5 @@ echo "second line"
 
 echo "third line added"
 
-echo "sdfasdfsdfasdf"
-
-
-sdfasdfsfdsf
-
-
-bbbbbbbbbbbbbbbbbbbbbbb
-
 echo "this is the bug fixed here"
+
