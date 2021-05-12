@@ -15,3 +15,5 @@ sdfasdfsfdsf
 
 
 bbbbbbbbbbbbbbbbbbbbbbb
+
+echo "this is the bug fixed here"
