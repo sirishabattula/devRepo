@@ -8,5 +8,5 @@ echo "second line"
 
 echo "third line added"
 
-echo "this is the bug fixed here"
+echo "this is the bug fixed here now in bug001 only"
 
